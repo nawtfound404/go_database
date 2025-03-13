@@ -1,0 +1,12 @@
+{
+ 	"Name": "Doe",
+ 	"Age": 30,
+ 	"Contact": "1234567890",
+ 	"Company": "Microsoft",
+ 	"Address": {
+ 	 	"City": "Hyderabad",
+ 	 	"State": "Telangana",
+ 	 	"Country": "India",
+ 	 	"Pincode": 500001
+ 	}
+}

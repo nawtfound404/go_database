@@ -1,0 +1,12 @@
+{
+ 	"Name": "hira",
+ 	"Age": 39,
+ 	"Contact": "1234567890",
+ 	"Company": "Banu pratap bus service",
+ 	"Address": {
+ 	 	"City": "Hyderabad",
+ 	 	"State": "Telangana",
+ 	 	"Country": "India",
+ 	 	"Pincode": 500001
+ 	}
+}
